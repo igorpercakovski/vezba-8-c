@@ -1,0 +1,5 @@
+najprvo go vcituvame fajlot so file reader i na krajot go zipuvame.
+So snapot email send go isprakjame taka sto go konfigurirame snapot so podatoci kako isprakjac primac.
+Pravime i akaunt za email snapot sho ke go koristi.
+(Vo mojov slucaj email send traese dolgo vreme neznam poradi koja pricina mozi poradi slow connection,
+ne vrakjase error samo traese dolgo)
